@@ -1,5 +1,3 @@
-# pyspark-dbt-project
-
 
 # End-to-End Data Engineering Pipeline using Databricks, PySpark & dbt Cloud
 
